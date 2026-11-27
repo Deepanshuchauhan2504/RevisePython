@@ -5,19 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="6a67a5f0-8641-49ff-ab1d-00c08195a123" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Basics/celcius_to_fahrenheit.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Basics/factorial.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Basics/fibonacci.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Basics/in_not_in.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Basics/leap_year_checker.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Basics/prime_number.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Basics/reverse_a_number.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Basics/sum_of_digits.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Basics/swap_two_numbers.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Basics/type_identification.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Basics/Loops.py" beforeDir="false" afterPath="$PROJECT_DIR$/Basics/loops.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -53,60 +41,60 @@
   <component name="NextEditCompletionFeaturesState">
     <decayedCancelled>
       <entry key="MS100" value="1.0" />
-      <entry key="MS500" value="1.0000000021101607" />
-      <entry key="S2" value="1.0067776460003066" />
-      <entry key="S5" value="1.1357324930447672" />
-      <entry key="S10" value="1.3894541600226276" />
-      <entry key="S30" value="3.0616322133623384" />
-      <entry key="S60" value="7.087406525431087" />
-      <entry key="M2" value="15.228117801159062" />
-      <entry key="M5" value="33.84706676609156" />
-      <entry key="M10" value="50.89780711117439" />
-      <entry key="M15" value="59.96646125450626" />
-      <entry key="M30" value="71.91477531512642" />
-      <entry key="H1" value="79.33979667934156" />
-      <entry key="H2" value="83.50052352547601" />
-      <entry key="H4" value="85.70586847915197" />
-      <entry key="D1" value="87.61129606288132" />
-      <entry key="W1" value="87.94431293933857" />
+      <entry key="MS500" value="1.0" />
+      <entry key="S2" value="1.0000288357746125" />
+      <entry key="S5" value="1.0278189109598401" />
+      <entry key="S10" value="1.4801182834397315" />
+      <entry key="S30" value="6.414263868778519" />
+      <entry key="S60" value="11.902728525917984" />
+      <entry key="M2" value="16.73514273850953" />
+      <entry key="M5" value="20.72793425509568" />
+      <entry key="M10" value="22.295290085835695" />
+      <entry key="M15" value="22.847634142402118" />
+      <entry key="M30" value="23.415749890639482" />
+      <entry key="H1" value="23.807732084606954" />
+      <entry key="H2" value="28.84059651607498" />
+      <entry key="H4" value="58.92313777514653" />
+      <entry key="D1" value="201.70467605981392" />
+      <entry key="W1" value="258.83250043978165" />
     </decayedCancelled>
     <decayedSelected>
       <entry key="MS100" value="0.0" />
       <entry key="MS500" value="0.0" />
-      <entry key="S2" value="2.464690678222154E-196" />
-      <entry key="S5" value="5.710905436666798E-79" />
-      <entry key="S10" value="7.557053285948685E-40" />
-      <entry key="S30" value="9.108583169302548E-14" />
-      <entry key="S60" value="3.018042936954763E-7" />
-      <entry key="M2" value="5.493671756625762E-4" />
-      <entry key="M5" value="0.049652953058282226" />
-      <entry key="M10" value="0.2228294259254874" />
-      <entry key="M15" value="0.36754881560078245" />
-      <entry key="M30" value="0.6062580437410975" />
-      <entry key="H1" value="0.7786257404819711" />
-      <entry key="H2" value="0.8823977223916499" />
-      <entry key="H4" value="0.9393602729473114" />
-      <entry key="D1" value="0.9896281299981969" />
-      <entry key="W1" value="0.9985116754147472" />
+      <entry key="S2" value="0.0" />
+      <entry key="S5" value="0.0" />
+      <entry key="S10" value="0.0" />
+      <entry key="S30" value="0.0" />
+      <entry key="S60" value="4.144989357879363E-193" />
+      <entry key="M2" value="1.3888460859788972E-96" />
+      <entry key="M5" value="1.1860955897889584E-38" />
+      <entry key="M10" value="2.540251571780195E-19" />
+      <entry key="M15" value="7.344926162997183E-13" />
+      <entry key="M30" value="2.264778610152919E-6" />
+      <entry key="H1" value="0.0041586938879460715" />
+      <entry key="H2" value="0.18117566683332212" />
+      <entry key="H4" value="1.2017460066662609" />
+      <entry key="D1" value="5.831283037999992" />
+      <entry key="W1" value="7.6466142757343505" />
     </decayedSelected>
     <decayedShown>
-      <entry key="MS100" value="0.004677651189917691" />
-      <entry key="MS500" value="0.3419838261913608" />
-      <entry key="S2" value="0.7685506349433318" />
-      <entry key="S5" value="1.006320183093043" />
-      <entry key="S10" value="1.296324337262023" />
-      <entry key="S30" value="2.994361485005629" />
-      <entry key="S60" value="7.02889795175547" />
-      <entry key="M2" value="15.185390052094744" />
-      <entry key="M5" value="33.86743883202409" />
-      <entry key="M10" value="51.09633674186526" />
-      <entry key="M15" value="60.31332515418294" />
-      <entry key="M30" value="72.50729019661858" />
-      <entry key="H1" value="80.1103878611691" />
-      <entry key="H2" value="84.37856277044095" />
-      <entry key="H4" value="86.64295703294597" />
-      <entry key="D1" value="88.60053207361261" />
-      <entry key="W1" value="88.94276825825429" />
+      <entry key="MS100" value="3.2971260524814615E-11" />
+      <entry key="MS500" value="0.008009900296004641" />
+      <entry key="S2" value="0.2991720340756507" />
+      <entry key="S5" value="0.6380444780463455" />
+      <entry key="S10" value="1.22387904236634" />
+      <entry key="S30" value="6.220690746251526" />
+      <entry key="S60" value="11.749673993968669" />
+      <entry key="M2" value="16.633511765570226" />
+      <entry key="M5" value="20.67887036451816" />
+      <entry key="M10" value="22.26909374723817" />
+      <entry key="M15" value="22.82977774355912" />
+      <entry key="M30" value="23.40662196272154" />
+      <entry key="H1" value="23.80725489671872" />
+      <entry key="H2" value="29.019010851822667" />
+      <entry key="H4" value="60.12222237251841" />
+      <entry key="D1" value="207.53452742808625" />
+      <entry key="W1" value="266.4788543122921" />
     </decayedShown>
   </component>
   <component name="ProjectColorInfo">{
@@ -120,45 +108,49 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "ModuleVcsDetector.initialDetectionPerformed": "true",
-    "Python.CelciusToFahrenheit.executor": "Run",
-    "Python.Loops.executor": "Run",
-    "Python.SumOfDigits.executor": "Run",
-    "Python.SwapTwoNumbers.executor": "Run",
-    "Python.TypeIdentification.executor": "Run",
-    "Python.Variables.executor": "Run",
-    "Python.factorial.executor": "Run",
-    "Python.fibonacci.executor": "Run",
-    "Python.in_not_in.executor": "Run",
-    "Python.leap_year_checker.executor": "Run",
-    "Python.main.executor": "Run",
-    "Python.prime_number.executor": "Run",
-    "Python.reverse_a_number.executor": "Run",
-    "RunOnceActivity.MCP Project settings loaded": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
-    "RunOnceActivity.git.unshallow": "true",
-    "RunOnceActivity.typescript.service.memoryLimit.init": "true",
-    "com.intellij.ml.llm.matterhorn.ej.ui.settings.DefaultModelSelectionForGA.v1": "true",
-    "git-widget-placeholder": "main",
-    "ignore.virus.scanning.warn.message": "true",
-    "junie.onboarding.icon.badge.shown": "true",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.jshint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.jshint": "",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "python.packages.toolwindow.project.migrated.to.right.top.v2": "true",
-    "settings.editor.selected.configurable": "com.intellij.mcpserver.settings.filter",
-    "studio.ml.bot.history.legacyLocationsMigrated": "true",
-    "to.speed.mode.migration.done": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
+    &quot;Python.CelciusToFahrenheit.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Loops.executor&quot;: &quot;Run&quot;,
+    &quot;Python.SumOfDigits.executor&quot;: &quot;Run&quot;,
+    &quot;Python.SwapTwoNumbers.executor&quot;: &quot;Run&quot;,
+    &quot;Python.TypeIdentification.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Variables.executor&quot;: &quot;Run&quot;,
+    &quot;Python.factorial.executor&quot;: &quot;Run&quot;,
+    &quot;Python.fibonacci.executor&quot;: &quot;Run&quot;,
+    &quot;Python.in_not_in.executor&quot;: &quot;Run&quot;,
+    &quot;Python.larget_and_smallest.executor&quot;: &quot;Run&quot;,
+    &quot;Python.leap_year_checker.executor&quot;: &quot;Run&quot;,
+    &quot;Python.list_processing.executor&quot;: &quot;Run&quot;,
+    &quot;Python.lists.executor&quot;: &quot;Run&quot;,
+    &quot;Python.main.executor&quot;: &quot;Run&quot;,
+    &quot;Python.prime_number.executor&quot;: &quot;Run&quot;,
+    &quot;Python.removing_duplicates.executor&quot;: &quot;Run&quot;,
+    &quot;Python.reverse_a_number.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.MCP Project settings loaded&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.typescript.service.memoryLimit.init&quot;: &quot;true&quot;,
+    &quot;com.intellij.ml.llm.matterhorn.ej.ui.settings.DefaultModelSelectionForGA.v1&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
+    &quot;junie.onboarding.icon.badge.shown&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.jshint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.jshint&quot;: &quot;&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;python.packages.toolwindow.project.migrated.to.right.top.v2&quot;: &quot;true&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;com.intellij.mcpserver.settings.filter&quot;,
+    &quot;studio.ml.bot.history.legacyLocationsMigrated&quot;: &quot;true&quot;,
+    &quot;to.speed.mode.migration.done&quot;: &quot;true&quot;
   }
-}]]></component>
-  <component name="RunManager" selected="Python.reverse_a_number">
+}</component>
+  <component name="RunManager" selected="Python.fibonacci">
     <configuration name="fibonacci" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="PythonProject" />
       <option name="ENV_FILES" value="" />
@@ -209,8 +201,8 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.reverse_a_number" />
         <item itemvalue="Python.fibonacci" />
+        <item itemvalue="Python.reverse_a_number" />
       </list>
     </recent_temporary>
   </component>
